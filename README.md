@@ -1,5 +1,7 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/kumarnikhil936/EndToEndMachineLearningPipeline?branch=master)](https://bettercodehub.com/)
-[![Travis Check](https://travis-ci.com/kumarnikhil936/EndToEndMachineLearningPipeline.svg?branch=master)](https://travis-ci.com/)
+[![Build Status](https://travis-ci.com/kumarnikhil936/EndToEndMachineLearningPipeline.svg?branch=master)](https://travis-ci.com/)
+[![DockerHub image pulls](https://img.shields.io/docker/pulls/kumarnikhil936/buzz)](https://hub.docker.com/repository/docker/kumarnikhil936/buzz/general)
+
 
 A way to ship code in small increments and iterations is by using a Continuous Integration and Continuous Deployment, or CI/CD, pipeline. 
 In this tutorial we’ll go through all the steps in setting up such a pipeline using free and hosted services. 
