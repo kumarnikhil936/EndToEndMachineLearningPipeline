@@ -7,6 +7,10 @@ app = Flask(__name__)
 
 @app.route("/")
 def generate_buzz():
+    """
+    Sample endpoint to return a message.
+    :return:
+    """
     page = '<html><body><h1>'
     page += generator.generate_buzz()
     page += '</h1></body></html>'
