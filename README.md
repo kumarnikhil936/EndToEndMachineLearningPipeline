@@ -1,3 +1,6 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/kumarnikhil936/EndToEndMachineLearningPipeline?branch=master)](https://bettercodehub.com/)
+[![Travis Check](https://travis-ci.com/kumarnikhil936/EndToEndMachineLearningPipeline.svg?branch=master)](https://travis-ci.com/)
+
 A way to ship code in small increments and iterations is by using a Continuous Integration and Continuous Deployment, or CI/CD, pipeline. 
 In this tutorial we’ll go through all the steps in setting up such a pipeline using free and hosted services. 
 From start to end this tutorial shows you in 9 steps how to:
